@@ -19,7 +19,7 @@ jobs:
           - SNAPSHOT
           
         tag:
-          - 20250901
+          - openwrt-24.10
 
     steps:
       - uses: actions/checkout@v4
