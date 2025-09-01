@@ -19,7 +19,7 @@ jobs:
           - SNAPSHOT
           
         tag:
-          - openwrt-24.10
+          - ImmortalWrt-lPQ
 
     steps:
       - uses: actions/checkout@v4
