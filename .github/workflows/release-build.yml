@@ -19,7 +19,7 @@ jobs:
           - SNAPSHOT
           
         tag:
-          - openwrt-24.10
+          - ipq807x-generic-23.05.6
 
     steps:
       - uses: actions/checkout@v4
